@@ -238,7 +238,7 @@ Planned visualizations:
 
 ## 👨‍💻 Author
 
-### Mohammed Amaanuddin
+Zamil Akhtar
 
 🚀 Data Engineer
 
